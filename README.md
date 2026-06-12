@@ -27,6 +27,16 @@ Java Full Stack Developer with **9+ years of overall IT experience**, including 
 
 ## Skills & Tools
 
+## 🧠 Languages & Tools
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Microservice](https://img.shields.io/badge/-Microservice-green?style=flat&logo=microservice&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-007396?style=flat&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 ### Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)

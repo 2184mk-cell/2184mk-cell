@@ -27,7 +27,7 @@ Java Full Stack Developer with **9+ years of overall IT experience**, including 
 
 ## Skills & Tools
 
-## 🧠 Languages & Tools
+## 🧠 Languages & Databases
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat&logo=springboot&logoColor=white)

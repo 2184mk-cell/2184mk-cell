@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Java Full Stack Developer with **9+ years of overall IT experience**, including **1.5 years of hands-on experience** in Cloud and DevOps technologies. Skilled in AWS, Terraform, Jenkins, Docker, Kubernetes, Linux, monitoring, and cloud operations.
+Java Full Stack Developer with **9+ years of overall IT experience**, including **1.5 years of hands-on experience** in Cloud and DevOps technologies. Skilled in Java, Spring Boot, React, Microservice, Hibernate, Postgresql, Mysql, AWS, Terraform, Jenkins, Docker, Kubernetes, Linux, monitoring, and cloud operations.
 
 **Open to opportunities** in Java Full Stack Developer, DevOps Engineering, Cloud Engineering, and Cloud Support roles.
 
